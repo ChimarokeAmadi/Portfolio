@@ -25,7 +25,7 @@ const Hero = () => {
 						<img
 							src={profilepic}
 							alt='Chimaroke Amadi'
-							className='h-[500px] rounded-[20px]'
+							className='h-[300px] rounded-[20px] lg:mt-16 lg:h-[400px]'
 						/>
 					</div>
 				</div>
