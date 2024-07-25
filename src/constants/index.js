@@ -57,7 +57,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "1 Bankers' close 1st Avenue, Calabar, 54022 ",
   phoneNo: "+234 816 550 9263",
   email: "chirokeamadi@gmail.com",
 };
