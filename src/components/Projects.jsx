@@ -18,15 +18,17 @@ const Projects = () => {
 						key={index}
 						className='mb-8 flex flex-wrap lg:justify-center'>
 						<div className='w-full lg:w-1/4'>
-							<motion.img
-								whileInView={{ opacity: 1, x: 0 }}
-								initial={{ opacity: 0, x: -100 }}
-								transition={{ duration: 1 }}
-								src={project.image}
-								alt={project.title}
-								width={150}
-								height={150}
-							/>
+							<a href={project.link} className=''>
+								<motion.img
+									whileInView={{ opacity: 1, x: 0 }}
+									initial={{ opacity: 0, x: -100 }}
+									transition={{ duration: 1 }}
+									src={project.image}
+									alt={project.title}
+									width={150}
+									height={150}
+								/>
+							</a>
 						</div>
 						<motion.div
 							whileInView={{ opacity: 1, x: 0 }}

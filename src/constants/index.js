@@ -32,6 +32,7 @@ export const PROJECTS = [
     description:
       "A fully functional Real estate website with features like product listing, company features, multi-page routing and messaging features.",
     technologies: ["HTML", "Tailwind", "React"],
+    link: 'https://prop-pal-rho.vercel.app/'
   },
   {
     title: "SoundDzign website",
@@ -39,6 +40,7 @@ export const PROJECTS = [
     description:
       "A simple website for learning about music production.",
     technologies: ["HTML", "CSS", "Firebase"],
+    link: 'https://sounddzign-one.vercel.app/'
   },
   {
     title: "Portfolio Website",
@@ -46,6 +48,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    link: 'https://portfolio-two-ruddy-64.vercel.app/'
   },
   {
     title: "Calculator App",
@@ -53,6 +56,7 @@ export const PROJECTS = [
     description:
       "An exciting Calculator web app that allows users to solve mathematical problems both on mobile and desktop devices",
     technologies: ["HTML", "Tailwind", "React"],
+    link: 'https://calculator-app-sandy-eight.vercel.app/'
   },
 ];
 
