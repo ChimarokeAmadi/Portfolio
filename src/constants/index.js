@@ -30,14 +30,14 @@ export const PROJECTS = [
     title: "Real Estate Website",
     image: project1,
     description:
-      "A fully functional Real estate website with features like product listing, shopping cart, and user authentication.",
+      "A fully functional Real estate website with features like product listing, company features, multi-page routing and messaging features.",
     technologies: ["HTML", "Tailwind", "React"],
   },
   {
-    title: "Task Management App",
+    title: "SoundDzign website",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "A simple website for learning about music production.",
     technologies: ["HTML", "CSS", "Firebase"],
   },
   {
