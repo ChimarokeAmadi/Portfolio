@@ -1,8 +1,8 @@
-import project1 from "../assets/projects/project1.png";
-import project2 from "../assets/projects/foodieland.jpeg";
-import project4 from "../assets/projects/sounddzign.png";
-import project3 from "../assets/projects/portfolio.png";
-import project5 from "../assets/projects/calculator.png";
+import project1 from "../assets/projects/project1 Small.png";
+import project2 from "../assets/projects/foodieland Small.png";
+import project4 from "../assets/projects/sounddzign Small.png";
+import project3 from "../assets/projects/portfolio Small.png";
+import project5 from "../assets/projects/calculator Small.png";
 
 export const HERO_CONTENT = `I am a passionate frontend developer with a knack for crafting robust and scalable web applications. With over a year of hands-on experience, I have honed my skills in front-end technologies like React and Next.js. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
